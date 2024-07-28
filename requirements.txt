@@ -5,4 +5,7 @@ gitpython
 watchdog
 alembic
 pytest
-
+anthropic
+google-generativeai
+openai
+aiofiles
